@@ -1,0 +1,15 @@
+/* In your App.css or a separate CSS file */
+.empList{
+    width: 70px;
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.empListItems{
+    margin: 10px ;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}

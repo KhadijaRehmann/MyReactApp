@@ -1,0 +1,29 @@
+.item{
+    display: flex;
+    padding: 6px 10px 6px 10px;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 10px;
+   
+}
+.icon{
+    margin-right: 0.5rem;
+    margin-top: 6px;
+   
+}
+.item:hover{
+    
+    background-color: rgb(139, 83, 212);
+    cursor: pointer;
+    box-shadow: "0 8px 32px 0 rgba(31,38,135,0.37)";
+    backdrop-filter: "blur(3.5px)";
+    -webkit-backdrop-filter: blur(3.5px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+   
+   color: white;
+   
+       
+       
+       
+     
+}

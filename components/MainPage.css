@@ -1,0 +1,41 @@
+.main h1{
+   font-size: 30px;
+   text-align: center;
+}
+.mainImage1{
+   position: absolute;
+   height: 650px;
+   width: 80%;
+   border-radius: 5px;
+  
+}
+.content{
+   position: relative;
+   top: 24rem;
+   left: 30%;
+   text-align: center;
+   width: 30%;
+   height: 250px;
+  background: rgba(0, 0, 0, .8);
+  animation:slide-up 1s ease;
+
+}
+.content h2{
+   color:#7a79bb;
+   padding: 5px;
+   
+}
+.content p{
+   line-height: 30px;
+   font-size: 18px;
+   margin-top: 10px;
+}
+hr{
+   width: 70%;
+   margin-top: 5px;
+}
+.content button{
+   margin-top: 10px;
+   width: 100px;
+   height: 35px;
+}
